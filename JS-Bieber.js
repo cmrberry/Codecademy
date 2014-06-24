@@ -1,6 +1,3 @@
-<html>
-<body>
-<script language="JavaScript">
 // Check if the user is ready to play!
 confirm("Are you ready to play? Hit OK to begin!");
 var age = prompt("What's your age");
@@ -32,6 +29,3 @@ if (feedback > 8) {
 } else {
     console.log("I'll keep practicing coding and racing.");
 }
-</script>
-</body>
-</html>
