@@ -26,7 +26,7 @@ do {
         confirm("You didn't choose a real dragon. Let's try again.");
         choiceMade = false;
     }
-} while (!choiceMade);
+} while (choiceMade === false);
 
 
 //Start the battle
